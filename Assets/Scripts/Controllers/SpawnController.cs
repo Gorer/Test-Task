@@ -54,7 +54,7 @@ public class SpawnController
             if (!textInputField.text.Equals(oldText))
             {
                 _spawnView.DisableSpawn();
-                _spawnModel.ChangeTime(float.Parse(timeText));
+                _spawnModel.SetNewTime(float.Parse(timeText));
             }
         }
         else

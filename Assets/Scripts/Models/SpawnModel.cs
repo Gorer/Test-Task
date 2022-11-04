@@ -11,7 +11,7 @@ public class SpawnModel
         _timeBetweenWaves = 0f;
     }
 
-    public void ChangeTime(float timeBetweenWaves)
+    public void SetNewTime(float timeBetweenWaves)
     {
         _timeBetweenWaves = timeBetweenWaves;
         ChangedTimeBetweenWaves?.Invoke(_timeBetweenWaves);
