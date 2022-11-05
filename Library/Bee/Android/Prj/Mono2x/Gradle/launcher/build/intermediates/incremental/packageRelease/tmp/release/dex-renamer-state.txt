@@ -1,0 +1,4 @@
+#Sat Nov 05 03:15:20 MSK 2022
+base.0=D\:\\Vuz\\3_course\\unity labs\\Test Task (Playclapp)\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
